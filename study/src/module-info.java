@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author devig
+ *
+ */
+module study {
+}
