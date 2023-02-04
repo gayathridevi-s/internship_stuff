@@ -14,6 +14,8 @@ class Frog{
 			this("anitta",4);                 //calling constructor 3 in constructor 2,it has to be on first line
 			System.out.println("second");
 			
+			
+			
 		}
 		public Frog(String name,int age) {             //constructor 3
 			System.out.println("third");
